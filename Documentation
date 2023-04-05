@@ -1,0 +1,45 @@
+         Virtual Key for Your Repositories
+
+
+Developer Details- Yash Mishra, FSD JG MARCH 2023 COHORT 3
+
+
+Total no. of Sprints- 3
+ 
+Sprint 1- Preparing work flow chart, Basic overlay and UI Design using Eclipse IDE, adding basic 
+                functions such as making file directory, add, deleting, searching files.
+
+Sprint 2- Adding Switch Cases, providing infinite loop to cases, add return to main menu 
+                Functionality.
+
+Sprint 3- Exception Handling, Final tunings and checks, documentation
+
+
+
+
+
+
+
+Core concepts used-
+
+Java Basics such as call methods of different classes, Switch Cases, file Handling, Exception Handling, packages, etc.
+
+User Interface
+
+ 
+
+ 
+USPs of this Application-
+
+
+1.	Ease of understanding.
+2.	Versatile Options to explore and navigate through.
+3.	Will guide user through errors or exceptions by adding comment on console for what to do next
+4.	Will provide 3 chances to user in case of invalid input from user.
+ 
+ 
+ 
+
+
+
+
